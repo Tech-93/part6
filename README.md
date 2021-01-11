@@ -1,4 +1,6 @@
 # part6
+contains Redux-anecdotes and unicafe-redux.
+
 
 PROJECTS IN THIS REPO
 
